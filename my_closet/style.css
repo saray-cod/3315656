@@ -1,0 +1,13 @@
+.closet{
+  border: 8px solid rgb(201, 225, 240);
+  padding: 20px;
+  background-color: rgb(129, 201, 227);
+}
+.closet__shoes{
+  padding: 18px;
+  background-color: rgb(106, 147, 174);
+}
+.closet__shoes-item{
+  color: rgb(0, 40, 105);
+  text-decoration: underline;
+}
